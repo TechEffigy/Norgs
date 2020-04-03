@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.centre {
+  width: 100%;
+  max-width: 640px;
+  margin: auto;
+}
+
+#display {
+  border: solid 1px lightgray;
+  width: 100%;
+  max-width: 640px;
+}
+
+p {
+  color: white;
+}
