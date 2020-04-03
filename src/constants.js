@@ -7,4 +7,4 @@ export const GRID_BLOCK_SIZE = Math.trunc(DISPLAY_WIDTH / GRID_SIZE);
 
 export const NUM_FOOD = 10;
 
-export const NUM_AGENTS = 15;
+export const NUM_AGENTS = 25;

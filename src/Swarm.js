@@ -66,7 +66,7 @@ class Swarm {
       });
 
       this.episode++;
-      this.timeStamp = Date.now();
+
       console.log(`Top Agents Reward: ${this.eliteRewards}`);
     }
   }

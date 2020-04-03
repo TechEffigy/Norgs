@@ -12,3 +12,7 @@ Agents placed into an enviroment containing goals. Each agent is controlled by a
 ## Running
 
 This project uses Webpack and Babel. To run the project, Yarn dev, or yarn build.
+
+## Demo
+
+[Demo at Netlify](https://norgs.netlify.com/)
