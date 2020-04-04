@@ -49,7 +49,7 @@ class Display {
     ctx.font = "16px monospace";
     ctx.fillStyle = "white";
     ctx.textBaseline = "top";
-    ctx.fillText(str, 10, 10);
+    ctx.fillText(str, x, y);
   }
 }
 

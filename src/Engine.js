@@ -18,7 +18,8 @@ class Engine {
     this.swarm.checkCollision(this.food);
     this.swarm.update(this.heatMap);
     this.swarm.draw(this.display);
-    this.display.drawText(`Episode: ${this.swarm.episode}`, 0, 0);
+    this.display.drawText("ver: silly", 10, 25);
+    this.display.drawText(`Episode: ${this.swarm.episode}`, 10, 10);
   }
 }
 

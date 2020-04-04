@@ -3,7 +3,7 @@ import { clipMinMax, magnifyVecTo1 } from "./utils";
 import { GRID_BLOCK_SIZE, GRID_SIZE } from "./constants";
 import NeuralNetwork from "./NeuralNetwork";
 
-const learningRate = 2;
+const learningRate = 1.5;
 
 class Agent {
   constructor() {
@@ -11,7 +11,7 @@ class Agent {
       Math.random() * GRID_SIZE,
       Math.random() * GRID_SIZE
     );
-    this.neuralNet = new NeuralNetwork(5, 2 ** 3, 2);
+    this.neuralNet = new NeuralNetwork(5, 2 ** 4, 2);
     this.bestVec = [...this.neuralNet.weights];
     this.bestRewards = 0;
     this.rewards = 0;
