@@ -1,5 +1,7 @@
 # Norgs
 
+![screenshot](/screenshot.jpg "Norgs")
+
 ## Status
 
 Project is running, still needs improvement, need to adjust parameters, refactor, and restructure.
