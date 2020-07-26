@@ -18,3 +18,7 @@ This project uses Webpack and Babel. To run the project, Yarn dev, or yarn build
 ## Demo
 
 [Demo at Netlify](https://norgs.netlify.com/)
+
+## Inspirations
+
+[Tech-Effigy Particle Swarm Optimization Algorithm Explained](https://techeffigytutorials.blogspot.com/2020/04/particle-swarm-optimization-explained_2.html)
