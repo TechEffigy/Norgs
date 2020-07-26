@@ -22,4 +22,5 @@ This project uses Webpack and Babel. To run the project, Yarn dev, or yarn build
 ## Inspirations
 
 [Tech-Effigy Particle Swarm Optimization Algorithm Explained](https://techeffigytutorials.blogspot.com/2020/04/particle-swarm-optimization-explained_2.html)
+
 [Tech-Effigy Neural Network Illustrated](https://techeffigytutorials.blogspot.com/2015/01/neural-network-illustrated-step-by-step.html)
